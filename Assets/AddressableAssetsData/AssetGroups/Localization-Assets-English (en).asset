@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 13b303f65f27bdd4587e7d85f94723d0
+  m_SerializeEntries:
+  - m_GUID: 305920660a84beb43b214b46998adbe7
+    m_Address: asdfgh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 7c495e3ba8686c047b758a115d1520dc
+    m_Address: Level complete
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: acf883dfce314a74bab28b2c47ac9c72
+    m_Address: Try it first
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 6f730927ab66e774cb623e406fbc2741
+    m_Address: re
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 3270157ba20174348b60279146a656b5
+    m_Address: menu
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 258ec9e8d94c2104b8656adb1d3b8c88
+    m_Address: sett
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 6cb4c41c9fa79684db5d1a451d8234b1
+    m_Address: btn_levels
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: b15cb1be1b0478c4bb4d6d08af82870a
+    m_Address: bbbb
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: fba7347df92360241831f40f7ebe0b06
+    m_Address: btn_play
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 9bc3c14d7d7b52c4ab6dbe7eec5eef8a
+    m_Address: Level 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 741d8d20c2ac9984ca1857854bc6975e
+    m_Address: Level 2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 433b18a1eaab9004aa8dcba5258c91db
+    m_Address: Level 3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: b99af4c4e2f8b3e4c9ed230d156dbf1e
+    m_Address: Level 4
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: b3ea74a73f3254d46b57f779b9aa7ce9
+    m_Address: Level 5
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 848f3abbe62592d48926198bcce8bc74
+    m_Address: Level 6
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 075b863a227c7514aafc59ba0aedc5f2
+    m_Address: Level 7
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 82424534cb845b3418fa9d139e86cc18
+    m_Address: Level 8
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 79fdb11b1aa914a40b6659fed0dc74ba
+    m_Address: Level 9
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 8fcfd64c05f972e42869a65dbf25d861
+    m_Address: CLICK ON THE GREEN BLOCK, TO DESTROY IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 4ed369f4c6340f841ae782704ade0754
+    m_Address: REMOVE THE OBSTACLE FROM THE ROAD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: e6ad8f1418c684c4fabfbf2143dea867
+    m_Address: YOU CAN'T DRAG RED OBSTACLES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 66ceff9570db4ad499f303dcccdd1065
+    m_Address: TOUCH THE ORANGE OBSTACLES TO ROTATE THEM
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 65f16599e04a206489cf38556719eb71, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 32baf7c8fc06d2444b753f23545032fd, type: 2}
+    - {fileID: 11400000, guid: 76f7eccb3e4b465469e26f8dae31e685, type: 2}

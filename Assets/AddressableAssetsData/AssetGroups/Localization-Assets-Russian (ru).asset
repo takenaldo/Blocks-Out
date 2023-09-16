@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6dd991ff38bcca947bf761cf4c741c8c
+  m_SerializeEntries:
+  - m_GUID: 69ccb365760643449a9fc469fde3d558
+    m_Address: next_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 9333ed84ad0fb104aafc3638b9bddb01
+    m_Address: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C \u043F\u0440\u043E\u0439\u0434\u0435\u043D"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 7b6c8b22aab2af64298afaa2c425a24d
+    m_Address: "\u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439 \u0441\u043D\u0430\u0447\u0430\u043B\u0430"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 79d483b3dd8a2a64381de42bc0abff32
+    m_Address: dsd
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 89ab65f8e1eb02e42a646f786dcd56fa
+    m_Address: menu_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 412193539ae0049458e862b2d588dac9
+    m_Address: dfgfsdt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 56fd9f75f7538f54ab2a1488c2131d03
+    m_Address: levels_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: e1ea23e8b3e051340b62b88b473ed63e
+    m_Address: back_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 3d765e7c6e1522d4d99f1656a3364496
+    m_Address: play_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 3a608e62e51915840b6adb727c68319a
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 1"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 8b7460b9a808adc449cca4e36079b094
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 2"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: cddbc0ee6082fd14694baf2344d877d8
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 3"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 3db6b96a539372d468e4f11e4be54162
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 4"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: c8d219802f312f14e98815be1d8c1f76
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 5"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a3bb0248d12a73947a267462d208e4eb
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 6"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 6dc00005f39ce154b958da59318615f7
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 7"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: bf64bb5a25f0ed84eb5815254253997c
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 8"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 7e970afaa1f97d4408abb74ef4b7c1c9
+    m_Address: "\u0443\u0420\u041E\u0412\u0415\u041D\u042C 9"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 3620cfff717a61049a3c531bb36485cc
+    m_Address: "\u041D\u0410\u0416\u041C\u0418\u0422\u0415 \u041D\u0410 \u0417\u0415\u041B\u0415\u041D\u042B\u0419
+      \u0411\u041B\u041E\u041A, \u0427\u0422\u041E\u0411\u042B \u0423\u041D\u0418\u0427\u0422\u041E\u0416\u0418\u0422\u042C
+      \u0415\u0413\u041E"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: f3d7981a46be85447a6db05fbe17d225
+    m_Address: "\u0423\u0411\u0415\u0420\u0418\u0422\u0415 \u041F\u0420\u0415\u041F\u042F\u0422\u0421\u0422\u0412\u0418\u0415
+      \u0421 \u0414\u041E\u0420\u041E\u0413\u0418"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 639cf82e9a8547c4ab71fe6169eb246c
+    m_Address: "\u0412\u042B \u041D\u0415 \u041C\u041E\u0416\u0415\u0422\u0415 \u041F\u0415\u0420\u0415\u0422\u0410\u0421\u041A\u0418\u0412\u0410\u0422\u042C
+      \u041A\u0420\u0410\u0421\u041D\u042B\u0415 \u041F\u0420\u0415\u041F\u042F\u0422\u0421\u0422\u0412\u0418\u042F"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 786a135aab1b65b4e9cfc1d220049095
+    m_Address: "\u041A\u0410\u0421\u0410\u0419\u0422\u0415\u0421\u042C \u041E\u0420\u0410\u041D\u0416\u0415\u0412\u042B\u0425
+      \u041F\u0420\u0415\u041F\u042F\u0422\u0421\u0422\u0412\u0418\u0419, \u0427\u0422\u041E\u0411\u042B
+      \u0412\u0420\u0410\u0429\u0410\u0422\u042C \u0418\u0425"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 65f16599e04a206489cf38556719eb71, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8c3f52f2b0fe9f245b77bdb64ff65a73, type: 2}
+    - {fileID: 11400000, guid: a4b9db5b36ad05f4eac3e87e6ab0dba4, type: 2}

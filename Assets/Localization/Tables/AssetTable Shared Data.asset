@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AssetTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AssetTable
+  m_TableCollectionNameGuidString: 7c9be0eaeaeb8bc4c87be7c4e77832a4
+  m_Entries:
+  - m_Id: 784995868672
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2311663804416
+    m_Key: lvl_completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12801228038144
+    m_Key: try_it_first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13872079986688
+    m_Key: restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15015090741248
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17996611739648
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55990697746432
+    m_Key: levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56387583762432
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56763519229952
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58066228109312
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60252282576896
+    m_Key: lvl1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60488430280704
+    m_Key: lvl2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60645741846528
+    m_Key: lvl3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60815862816768
+    m_Key: lvl4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60938181304320
+    m_Key: lvl5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61110869188608
+    m_Key: lvl6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61229421191168
+    m_Key: lvl7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61321079316480
+    m_Key: lvl8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61405686816768
+    m_Key: lvl9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63840408985600
+    m_Key: hint 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65717498437632
+    m_Key: hint2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66630015410176
+    m_Key: hnt 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66954407075840
+    m_Key: hint 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3590958560210944
+    m_Key: levels_main
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 5472656881904779289
+  m_KeyGenerator:
+    rid: 5472656881904779288
+  references:
+    version: 2
+    RefIds:
+    - rid: 5472656881904779288
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1684653094416
+    - rid: 5472656881904779289
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 784995868672
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 2311663804416
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 12801228038144
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 13872079986688
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 15015090741248
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 17996611739648
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 55990697746432
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 56387583762432
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 56763519229952
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 60252282576896
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 60488430280704
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 60645741846528
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 60815862816768
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 60938181304320
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 61110869188608
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 61229421191168
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 61321079316480
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 61405686816768
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 63840408985600
+          m_TableCodes:
+          - ru
+          - en
+        - m_KeyId: 65717498437632
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 66630015410176
+          m_TableCodes:
+          - ru
+          - en
+        - m_KeyId: 66954407075840
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 3590958560210944
+          m_TableCodes:
+          - en
+          - ru
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
